@@ -1,0 +1,2 @@
+
+NOME |Roger,| SOBRENOME |palma,| EMAIL | roger@| CELULAR | 123123123123,| CPF | 0020202, | CIDADE | santa maria ,| DATA/HORA | 16/05/2023 17:04:35
